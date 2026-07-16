@@ -62,7 +62,7 @@ document.body.addEventListener("click",()=>{
 
     setTimeout(()=>{
 
-        document.getElementById("intro").remove();
+        window.location.href="../invite.html";
 
     },1200);
 
