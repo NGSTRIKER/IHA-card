@@ -6,8 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="f3f44693-620e-4a40-b608-d11f4b68e729" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/intro.css" beforeDir="false" afterPath="$PROJECT_DIR$/intro.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -111,6 +109,7 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "git-widget-placeholder": "main",
@@ -145,6 +144,7 @@
       <option name="presentableId" value="Default" />
       <updated>1783772622015</updated>
       <workItem from="1783772622916" duration="1928000" />
+      <workItem from="1784254262768" duration="300000" />
     </task>
     <servers />
   </component>
